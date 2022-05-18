@@ -18,4 +18,4 @@ This shell exits if you press Ctrl + D. Besides, the shell still works if you pr
 
 Authors
 Robert Mong'are
-Samuel Kikuvi
+Samuel Kikuvi.
